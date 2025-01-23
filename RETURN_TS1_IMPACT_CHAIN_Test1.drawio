@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.5">
+  <diagram name="Pagina-1" id="luuT_doJFNInnU2bNvtK">
+    <mxGraphModel dx="1915" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="Seismic Hazard" Description="Normalized value of PGA for a return period 475 years taking into account soil amplification" Type="Hazard" Layer="PGA_N" File="CensusTracts_example.rar&#xa;Stili.rar" id="grJC6aLjGhw1UiAiB7bE-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="125" y="170" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Damage to Buildings" Description="Physical damages to residential buildings resulting from the direct seismic action" Type="Impact" Layer="" File="" id="grJC6aLjGhw1UiAiB7bE-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#C9C9C9;strokeColor=#23445d;" parent="1" vertex="1">
+            <mxGeometry x="120" y="280" width="130" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Residential Buildings" Description="Number of residential buildings (normalized)" Type="Exposure" Layer="EDIFICI_N" File="CensusTracts_example.rar&#xa;Stili.rar" id="grJC6aLjGhw1UiAiB7bE-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+            <mxGeometry x="-120" y="280" width="130" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Seismic Vulnerability" Description="Normalized vulnerability index according to RISK-UE methodology" Type="Vulnerability" Layer="VI_N" File="CensusTracts_example.rar&#xa;Stili.rar" id="grJC6aLjGhw1UiAiB7bE-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
+            <mxGeometry x="340" y="200" width="130" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Fatalities and casualities" Description="Number of fatalities and casualties possibly resulting from the physical damages to residential buildings" Type="Impact" Layer="" File="" id="grJC6aLjGhw1UiAiB7bE-5">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#C9C9C9;strokeColor=#23445d;" parent="1" vertex="1">
+            <mxGeometry x="55" y="400" width="130" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Risk due to seismic event to resident population" Description="Seismic Risk Index described by a composite indicator accounting for potential impact on residential population and buildings. The proxy composite indicator does not consider the expected impacts but rather their driving factors in terms of hazard, exposure and vulnerability" Type="Risk" Layer="RI_PRODOTT" File="CensusTracts_example.rar&#xa;Stili.rar" id="grJC6aLjGhw1UiAiB7bE-6">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FF9999;strokeColor=#FF0000;" parent="1" vertex="1">
+            <mxGeometry x="183" y="500" width="130" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Exposed residential population" Description="Number of residents (normalized)" Type="Exposure" Layer="Pop_N" File="CensusTracts_example.rar&#xa;Stili.rar" id="grJC6aLjGhw1UiAiB7bE-7">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+            <mxGeometry x="-120" y="500" width="130" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="grJC6aLjGhw1UiAiB7bE-8" value="Leads to" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="grJC6aLjGhw1UiAiB7bE-1" target="grJC6aLjGhw1UiAiB7bE-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="380" as="sourcePoint" />
+            <mxPoint x="230" y="330" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grJC6aLjGhw1UiAiB7bE-11" value="Leads to" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="grJC6aLjGhw1UiAiB7bE-5" target="grJC6aLjGhw1UiAiB7bE-6" edge="1">
+          <mxGeometry x="0.4844" y="15" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195" y="240" as="sourcePoint" />
+            <mxPoint x="195" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="535" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grJC6aLjGhw1UiAiB7bE-12" value="Leads to" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="grJC6aLjGhw1UiAiB7bE-2" target="grJC6aLjGhw1UiAiB7bE-5" edge="1">
+          <mxGeometry x="0.2" y="-32" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="135" y="480" as="sourcePoint" />
+            <mxPoint x="180" y="545" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grJC6aLjGhw1UiAiB7bE-13" value="Affects" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006600;edgeStyle=elbowEdgeStyle;" parent="1" source="grJC6aLjGhw1UiAiB7bE-4" target="grJC6aLjGhw1UiAiB7bE-2" edge="1">
+          <mxGeometry x="0.0909" y="-15" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195" y="240" as="sourcePoint" />
+            <mxPoint x="195" y="290" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grJC6aLjGhw1UiAiB7bE-14" value="Impacts on" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;" parent="1" source="grJC6aLjGhw1UiAiB7bE-2" target="grJC6aLjGhw1UiAiB7bE-3" edge="1">
+          <mxGeometry x="0.0909" y="-15" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="325" as="sourcePoint" />
+            <mxPoint x="260" y="325" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grJC6aLjGhw1UiAiB7bE-15" value="Impacts on" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;" parent="1" source="grJC6aLjGhw1UiAiB7bE-5" target="grJC6aLjGhw1UiAiB7bE-7" edge="1">
+          <mxGeometry x="0.5774" y="-15" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="325" as="sourcePoint" />
+            <mxPoint x="20" y="325" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="90" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grJC6aLjGhw1UiAiB7bE-16" value="Leads to" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="grJC6aLjGhw1UiAiB7bE-2" target="grJC6aLjGhw1UiAiB7bE-6" edge="1">
+          <mxGeometry x="0.0643" y="14" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="480" as="sourcePoint" />
+            <mxPoint x="180" y="545" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="People" Description="Number of residential buildings (normalized)" Type="Exposure" Layer="EDIFICI_N" File="CensusTracts_example.rar&#xa;Stili.rar" id="9sxhtTgN9ezBenP4kRSc-6">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+            <mxGeometry x="-190" y="390" width="130" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="9sxhtTgN9ezBenP4kRSc-7" value="Impacts on" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="grJC6aLjGhw1UiAiB7bE-5" target="9sxhtTgN9ezBenP4kRSc-6">
+          <mxGeometry x="0.0909" y="-15" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="369.9999999999999" as="sourcePoint" />
+            <mxPoint x="150" y="369.9999999999999" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
