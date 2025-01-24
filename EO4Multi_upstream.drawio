@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.7">
   <diagram name="Page-1" id="xnStX_vJM5kCGhr3FGlF">
-    <mxGraphModel dx="1444" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
           </mxCell>
         </object>
         <object label="Leads to" Description="Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. " id="BDBPg4SDOeMVl6-OXKPz-20">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" target="BDBPg4SDOeMVl6-OXKPz-19" parent="1" source="BDBPg4SDOeMVl6-OXKPz-14">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" target="BDBPg4SDOeMVl6-OXKPz-19" parent="1" source="BDBPg4SDOeMVl6-OXKPz-14">
             <mxGeometry x="-0.2" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="850" y="420" as="sourcePoint" />
               <mxPoint x="910.5" y="540" as="targetPoint" />
@@ -98,7 +98,7 @@
         </object>
         <object label="Damage to agricultural land" Description="Description of the impact" Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this hazard component (if applicable)" id="BDBPg4SDOeMVl6-OXKPz-48">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#C9C9C9;strokeColor=#23445d;" vertex="1" parent="1">
-            <mxGeometry x="800" y="730" width="120" height="60" as="geometry" />
+            <mxGeometry x="750" y="760" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="Leads to" Description="Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. " id="BDBPg4SDOeMVl6-OXKPz-49">
@@ -129,7 +129,7 @@
         </object>
         <object label="Insufficient water availability" Description="Description of the impact" Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this hazard component (if applicable)" id="BDBPg4SDOeMVl6-OXKPz-55">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#C9C9C9;strokeColor=#23445d;" vertex="1" parent="1">
-            <mxGeometry x="850" y="530" width="120" height="60" as="geometry" />
+            <mxGeometry x="900" y="530" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="Leads to" Description="Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. " id="BDBPg4SDOeMVl6-OXKPz-56">
@@ -153,7 +153,7 @@
         </object>
         <object label="Inadequate water quality" Description="Description of the impact" Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this hazard component (if applicable)" id="BDBPg4SDOeMVl6-OXKPz-60">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#C9C9C9;strokeColor=#23445d;" vertex="1" parent="1">
-            <mxGeometry x="980" y="730" width="120" height="60" as="geometry" />
+            <mxGeometry x="930" y="740" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="Leads to" Description="Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. " id="BDBPg4SDOeMVl6-OXKPz-61">
@@ -161,6 +161,34 @@
             <mxGeometry x="-0.2" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="930" y="610" as="sourcePoint" />
               <mxPoint x="930" y="710" as="targetPoint" />
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="Livestock stress and increased mortality" Description="Description of the impact" Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this hazard component (if applicable)" id="BDBPg4SDOeMVl6-OXKPz-95">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#C9C9C9;strokeColor=#23445d;" vertex="1" parent="1">
+            <mxGeometry x="860" y="850" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Leads to" Description="Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. " id="BDBPg4SDOeMVl6-OXKPz-96">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="BDBPg4SDOeMVl6-OXKPz-95">
+            <mxGeometry x="-0.2" width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="850" y="410" as="sourcePoint" />
+              <mxPoint x="830" y="750" as="targetPoint" />
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="Other health effects" Description="Description of the impact" Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this hazard component (if applicable)" id="BDBPg4SDOeMVl6-OXKPz-97">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#C9C9C9;strokeColor=#23445d;" vertex="1" parent="1">
+            <mxGeometry x="1030" y="900" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Leads to" Description="Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. " id="BDBPg4SDOeMVl6-OXKPz-98">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" target="BDBPg4SDOeMVl6-OXKPz-97" parent="1" source="BDBPg4SDOeMVl6-OXKPz-60">
+            <mxGeometry x="-0.2" width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="1090" y="830" as="sourcePoint" />
+              <mxPoint x="1150.5" y="950" as="targetPoint" />
               <mxPoint as="offset" />
             </mxGeometry>
           </mxCell>
