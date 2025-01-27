@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.7">
   <diagram name="Pagina-1" id="luuT_doJFNInnU2bNvtK">
-    <mxGraphModel dx="1886" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,6 +132,42 @@
             <mxGeometry x="0.3031" y="1" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="271" y="509.63" as="sourcePoint" />
               <mxPoint x="181" y="509.63" as="targetPoint" />
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="Leads to" Description="Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="Refers to the time lapse between the incidence of the source element and the subsequent element. Values: &#xa;minutes to hours&#xa;hours to days&#xa;days to weeks&#xa;weeks to months&#xa;years to decades" id="_F0MfmOvoYsbLBurmLUC-30">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+            <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="111" y="700" as="sourcePoint" />
+              <mxPoint x="110" y="760" as="targetPoint" />
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="Impacts on" Description="Description of how the impact affects the specific exposure component [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="" id="_F0MfmOvoYsbLBurmLUC-31">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;edgeStyle=elbowEdgeStyle;jumpStyle=arc;jumpSize=7;" edge="1" parent="1">
+            <mxGeometry x="0.0031" y="1" width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="179.19" y="700" as="sourcePoint" />
+              <mxPoint x="179" y="760" as="targetPoint" />
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="Affects" Description="Description of how the vulnerability affects the specific impact/vulnerability component [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="" id="_F0MfmOvoYsbLBurmLUC-32">
+          <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;" edge="1" parent="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="240.14" y="700" as="sourcePoint" />
+              <mxPoint x="240.14" y="760" as="targetPoint" />
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="Mitigates" Description="Description of how the impact affects the specific exposure component [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="" id="_F0MfmOvoYsbLBurmLUC-33">
+          <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#4C0099;dashed=1;dashPattern=12 12;jumpStyle=arc;jumpSize=7;elbow=vertical;" edge="1" parent="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="300" y="700" as="sourcePoint" />
+              <mxPoint x="300" y="760" as="targetPoint" />
               <mxPoint as="offset" />
             </mxGeometry>
           </mxCell>
