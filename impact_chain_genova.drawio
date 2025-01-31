@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.10">
   <diagram name="Pagina-1" id="luuT_doJFNInnU2bNvtK">
-    <mxGraphModel dx="2289" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2788" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" Impact_chain_title="" impact_chain_geographical_scope="" impact_chain_temporal_scope="" impact_chain_authors="" Impact_chain_references="" impact_chain_purpose="" impact_chain_last_modified="" id="0">
           <mxCell />
@@ -45,7 +45,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="&lt;b&gt;Physical vulnerability&lt;/b&gt;" Description="Description of the physical vulnerability in terms of the EMS-98 vulnerability classes (pie-chart) or by prevalent class in the census tract." Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-39">
+        <object label="&lt;b&gt;Physical vulnerability&lt;/b&gt;" Description="Physical vulnerability to seismic hazard refers to those geometrical, structural and environmental characteristics of buildings that make them susceptible to physical damage. The physical vulnerability of residential buildings in the town of Genoa an be described in terms of the EMS-98 vulnerability classes (pie-chart) or by prevalent class in the census tract." Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-39">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-413" y="360" width="120" height="60" as="geometry" />
           </mxCell>
@@ -59,7 +59,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Risk to rfinancial conndition of esidential population" Description="Description of the (key) Risk" Type="Risk" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-41">
+        <object label="Risk to financial condition of residential population" Description="Description of the (key) Risk" Type="Risk" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-41">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-710" y="850" width="120" height="60" as="geometry" />
           </mxCell>
@@ -69,7 +69,7 @@
             <mxGeometry x="-710" y="556" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="Leads to" Description="Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="Refers to the time lapse between the incidence of the source element and the subsequent element. Values: &#xa;minutes to hours&#xa;hours to days&#xa;days to weeks&#xa;weeks to months&#xa;years to decades" id="_F0MfmOvoYsbLBurmLUC-43">
+        <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Structural damages (and to a less extent, non-structural damages) can prevent buildings from being used by the inhabitants, either to avoid consequences related to possible collapse, or because the utilities (water, energy) have been incapacitated&#xa; [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours&#xa;" id="_F0MfmOvoYsbLBurmLUC-43">
           <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_F0MfmOvoYsbLBurmLUC-35" target="_F0MfmOvoYsbLBurmLUC-42" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-429" y="570" as="sourcePoint" />
@@ -78,7 +78,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Leads to" Description="Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="Refers to the time lapse between the incidence of the source element and the subsequent element. Values: &#xa;minutes to hours&#xa;hours to days&#xa;days to weeks&#xa;weeks to months&#xa;years to decades" id="_F0MfmOvoYsbLBurmLUC-45">
+        <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Physical damages to buildings imply possibly important financial consequences, particularly in the cases where the inhabitants are also owner of the buildings. Even in the case of people renting the apartments, physical damage may lead to financial consequences related to the need to find another accomodation [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="weeks to months&#xa;" id="_F0MfmOvoYsbLBurmLUC-45">
           <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_F0MfmOvoYsbLBurmLUC-35" target="_F0MfmOvoYsbLBurmLUC-47" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-539.67" y="660" as="sourcePoint" />
@@ -92,21 +92,24 @@
             <mxGeometry x="-540" y="630" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="Socio-economic vulnerability" Description="Description of the Vulnerability" Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-48">
+        <object label="Socio-economic vulnerability" Description="Socio-economic vulnerability may result from different demographic, social and economic conditions, often considered jointly into a composite index. In the case of Genoa, the resulting vulnerability index aggregated on the census tracts shows XXXX ..." Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-48">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" parent="1" vertex="1">
-            <mxGeometry x="-360" y="549" width="120" height="60" as="geometry" />
+            <mxGeometry x="-320" y="530" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="Affects" Description="Description of how the vulnerability affects the specific impact/vulnerability component [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="" id="_F0MfmOvoYsbLBurmLUC-50">
+        <object label="&lt;b&gt;Affects&lt;/b&gt;" Description="High socio-economic vulnerability might amplify financial consequences of natural disasters. &#xa;[please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="" id="_F0MfmOvoYsbLBurmLUC-50">
           <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_F0MfmOvoYsbLBurmLUC-48" target="_F0MfmOvoYsbLBurmLUC-47" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-429.7171428571429" y="620" as="sourcePoint" />
               <mxPoint x="-429.7171428571429" y="680" as="targetPoint" />
               <mxPoint as="offset" />
+              <Array as="points">
+                <mxPoint x="-390" y="610" />
+              </Array>
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Leads to" Description="Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="Refers to the time lapse between the incidence of the source element and the subsequent element. Values: &#xa;minutes to hours&#xa;hours to days&#xa;days to weeks&#xa;weeks to months&#xa;years to decades" id="_F0MfmOvoYsbLBurmLUC-51">
+        <object label="Leads to" Description="contributes to the risk [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="weeks to months&#xa;" id="_F0MfmOvoYsbLBurmLUC-51">
           <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_F0MfmOvoYsbLBurmLUC-47" target="_F0MfmOvoYsbLBurmLUC-41" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-489" y="720" as="sourcePoint" />
@@ -115,12 +118,12 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Leads to" Description="Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="Refers to the time lapse between the incidence of the source element and the subsequent element. Values: &#xa;minutes to hours&#xa;hours to days&#xa;days to weeks&#xa;weeks to months&#xa;years to decades" id="_F0MfmOvoYsbLBurmLUC-53">
+        <object label="Leads to" Description="contributes to the risk [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="weeks to months&#xa;" id="_F0MfmOvoYsbLBurmLUC-53">
           <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_F0MfmOvoYsbLBurmLUC-42" target="_F0MfmOvoYsbLBurmLUC-41" edge="1">
-            <mxGeometry x="0.1667" width="50" height="50" relative="1" as="geometry">
+            <mxGeometry x="-0.1111" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-639" y="658" as="sourcePoint" />
               <mxPoint x="-640" y="718" as="targetPoint" />
-              <mxPoint x="-1" as="offset" />
+              <mxPoint as="offset" />
               <Array as="points">
                 <mxPoint x="-620" y="700" />
               </Array>
@@ -132,9 +135,9 @@
             <mxGeometry x="-900" y="630" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="Impacts on" Description="Description of how the impact affects the specific exposure component [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="" id="_F0MfmOvoYsbLBurmLUC-56">
+        <object label="&lt;b&gt;Impacts on&lt;/b&gt;" Description="population living within buildings damaged is exposed to potential financial problems [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="does not apply" id="_F0MfmOvoYsbLBurmLUC-56">
           <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;edgeStyle=elbowEdgeStyle;jumpStyle=arc;jumpSize=7;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_F0MfmOvoYsbLBurmLUC-47" target="_F0MfmOvoYsbLBurmLUC-55" edge="1">
-            <mxGeometry x="0.0031" y="1" width="50" height="50" relative="1" as="geometry">
+            <mxGeometry x="-0.5" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-699.7147619047619" y="650" as="sourcePoint" />
               <mxPoint x="-699.9047619047619" y="710" as="targetPoint" />
               <mxPoint as="offset" />
@@ -171,7 +174,7 @@
         </object>
         <object label="Physical vulnerability" Description="Description of the Vulnerability" Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-61">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" parent="1" vertex="1">
-            <mxGeometry x="-1540" y="360" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1560" y="360" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Affects&lt;/b&gt;" Description="The physical vulnerability refers to those structural characteristics of buildings that make them susceptible to damage when subjected to the action of flood water [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="does not apply" id="_F0MfmOvoYsbLBurmLUC-62">
@@ -183,7 +186,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Impacts on" Description="Description of how the impact affects the specific exposure component [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="" id="_F0MfmOvoYsbLBurmLUC-63">
+        <object label="&lt;b&gt;Impacts on&lt;/b&gt;" Description="Residents of the damaged buildings are affected by the inagibility [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="not applicable" id="_F0MfmOvoYsbLBurmLUC-63">
           <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;edgeStyle=elbowEdgeStyle;jumpStyle=arc;jumpSize=7;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_F0MfmOvoYsbLBurmLUC-42" target="_F0MfmOvoYsbLBurmLUC-55" edge="1">
             <mxGeometry x="0.0031" y="1" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-779.7147619047619" y="600" as="sourcePoint" />
@@ -192,7 +195,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Leads to" Description="Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="Refers to the time lapse between the incidence of the source element and the subsequent element. Values: &#xa;minutes to hours&#xa;hours to days&#xa;days to weeks&#xa;weeks to months&#xa;years to decades" id="_F0MfmOvoYsbLBurmLUC-64">
+        <object label="Leads to" Description="contributes to the risk&#xa;[please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="weeks to months" id="_F0MfmOvoYsbLBurmLUC-64">
           <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_F0MfmOvoYsbLBurmLUC-58" target="_F0MfmOvoYsbLBurmLUC-41" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-1059.71" y="598" as="sourcePoint" />
@@ -272,12 +275,12 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Traffic disruption" Description="Description of the Impact" Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-74">
+        <object label="Traffic disruption" Description="Strong traffic disturbance includes the segregation of residential areas as well as critical infrastructure, leading to increase travel time and possibly inability to reach certain places." Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-74">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-1090" y="680" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="Leads to" Description="Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="Refers to the time lapse between the incidence of the source element and the subsequent element. Values: &#xa;minutes to hours&#xa;hours to days&#xa;days to weeks&#xa;weeks to months&#xa;years to decades" id="_F0MfmOvoYsbLBurmLUC-75">
+        <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="damage to even relatively small segments of roads might completely block the flow of vehicles across the affected road, possibly leading to severe traffic disturbances also in areas not directly affected by the physical damage.&#xa;[please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="medium (moderate evidence) or high (robust evidence)." Time_Lag="minutes to hours&#xa;" id="_F0MfmOvoYsbLBurmLUC-75">
           <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_F0MfmOvoYsbLBurmLUC-71" target="_F0MfmOvoYsbLBurmLUC-74" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-879" y="570" as="sourcePoint" />
@@ -295,12 +298,12 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Non redundancy of roads network" Description="Description of the Vulnerability" Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-77">
+        <object label="Non redundancy of roads network" Description="The specific topology of road network in the town of Genoa shows evidences of non-redundancy, in particular in the hilly areas characterized by small and meandering roads." Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) to high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-77">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-1290" y="680" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="Affects" Description="Description of how the vulnerability affects the specific impact/vulnerability component [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="" id="_F0MfmOvoYsbLBurmLUC-78">
+        <object label="&lt;b&gt;Affects&lt;/b&gt;" Description="limited redundancy of the road network and other topological weaknesses may increase the impact of road damage on the capacity of the network of carrying traffic, therefore resulting in significant traffic disturbances.&#xa;[please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours" id="_F0MfmOvoYsbLBurmLUC-78">
           <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_F0MfmOvoYsbLBurmLUC-77" target="_F0MfmOvoYsbLBurmLUC-74" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-979.7171428571429" y="540" as="sourcePoint" />
@@ -343,7 +346,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Leads to" Description="Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="Refers to the time lapse between the incidence of the source element and the subsequent element. Values: &#xa;minutes to hours&#xa;hours to days&#xa;days to weeks&#xa;weeks to months&#xa;years to decades" id="_F0MfmOvoYsbLBurmLUC-83">
+        <object label="Leads to" Description="contributes to the risk&#xa;[please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="hours to days&#xa;" id="_F0MfmOvoYsbLBurmLUC-83">
           <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="_F0MfmOvoYsbLBurmLUC-81" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-1399.59" y="740" as="sourcePoint" />
@@ -355,27 +358,27 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Lack of insurance" Description="Description of the Vulnerability" Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-84">
+        <object label="Lack of insurance" Description="Lack of insurance coverage decreases the capacity to transfer risk, particularly in those cases of rare events with significant consequences. Lack of insurance may be due to limited offer, underestimation of risk or poor risk management, or due to high risk situations where insurance may not be viable. In Genoa, the estimated coverage of insurance against seismic events is very low (provide evidence!)" Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-84">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-310" y="630" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="Affects" Description="Description of how the vulnerability affects the specific impact/vulnerability component [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="" id="_F0MfmOvoYsbLBurmLUC-86">
+        <object label="&lt;b&gt;Affects&lt;/b&gt;" Description="lack of insurance means that in case of heavy financial loss this has to be covered in full by the affected people. In case of limited financial capacity the resulting consequences can be dire. [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="" id="_F0MfmOvoYsbLBurmLUC-86">
           <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_F0MfmOvoYsbLBurmLUC-84" target="_F0MfmOvoYsbLBurmLUC-47" edge="1">
-            <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxGeometry x="-0.2727" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-479.7171428571429" y="640" as="sourcePoint" />
               <mxPoint x="-479.7171428571429" y="700" as="targetPoint" />
               <mxPoint as="offset" />
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="high level of unenployment" Description="Description of the Vulnerability" Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-87">
+        <object label="high level of unenployment" Description="high level of unemployment is often related to low financial capability and low resilience to unexpected loss. In Genoa the mean unemployed rate is XXX" Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-87">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-360" y="720" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="Affects" Description="Description of how the vulnerability affects the specific impact/vulnerability component [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="" id="_F0MfmOvoYsbLBurmLUC-88">
-          <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="_F0MfmOvoYsbLBurmLUC-87" target="_F0MfmOvoYsbLBurmLUC-47" edge="1">
+        <object label="&lt;b&gt;Affects&lt;/b&gt;" Description="high level of unemployment is often related to low financial capability and low resilience to unexpected loss. [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="" id="_F0MfmOvoYsbLBurmLUC-88">
+          <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;elbow=horizontal;" parent="1" source="_F0MfmOvoYsbLBurmLUC-87" target="_F0MfmOvoYsbLBurmLUC-47" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-330" y="720" as="sourcePoint" />
               <mxPoint x="-410" y="670" as="targetPoint" />
@@ -385,7 +388,7 @@
         </object>
         <object label="Subsidies to NH insurance" Description="Description of the Adaptation / Risk mitigation Option " Type="Adaptation Option" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-89">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=0;" parent="1" vertex="1">
-            <mxGeometry x="-110" y="635" width="120" height="60" as="geometry" />
+            <mxGeometry x="-90" y="635" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="Mitigates" Description="Description of how the impact affects the specific exposure component [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="" id="_F0MfmOvoYsbLBurmLUC-90">
@@ -397,12 +400,12 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Inequality" Description="Description of the Vulnerability" Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-91">
+        <object label="Inequality" Description="Social and economic inequality occur when resources within a society are distributed unevenly, often as a result of inequitable allocation practices that create distinct unequal patterns based on socially defined categories of people. in Genoa XXXX" Type="Vulnerability" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-91">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-160" y="430" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="Leads to" Description="Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="Refers to the time lapse between the incidence of the source element and the subsequent element. Values: &#xa;minutes to hours&#xa;hours to days&#xa;days to weeks&#xa;weeks to months&#xa;years to decades" id="_F0MfmOvoYsbLBurmLUC-92">
+        <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="economic inequality may contribute to increase socio-economic vulnerability&#xa;[please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="medium (moderate evidence) or high (robust evidence)." Time_Lag="years to decades" id="_F0MfmOvoYsbLBurmLUC-92">
           <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.431;exitY=1.054;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_F0MfmOvoYsbLBurmLUC-91" target="_F0MfmOvoYsbLBurmLUC-48" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-289" y="550" as="sourcePoint" />
@@ -411,7 +414,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Leads to" Description="Traffic disruption may prevent emeregency vehicles from reaching hospitals. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="Refers to the time lapse between the incidence of the source element and the subsequent element. Values: &#xa;minutes to hours&#xa;hours to days&#xa;days to weeks&#xa;weeks to months&#xa;years to decades" id="_F0MfmOvoYsbLBurmLUC-93">
+        <object label="Leads to" Description="Traffic disruption may prevent emeregency vehicles from reaching hospitals. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="low (limited evidence) to medium (moderate evidence)" Time_Lag="hours to days&#xa;" id="_F0MfmOvoYsbLBurmLUC-93">
           <mxCell style="endArrow=classic;html=1;rounded=1;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-1029" y="740" as="sourcePoint" />
