@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.10">
   <diagram name="Pagina-1" id="luuT_doJFNInnU2bNvtK">
-    <mxGraphModel dx="2788" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2977" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" Impact_chain_title="" impact_chain_geographical_scope="" impact_chain_temporal_scope="" impact_chain_authors="" Impact_chain_references="" impact_chain_purpose="" impact_chain_last_modified="" id="0">
           <mxCell />
@@ -386,12 +386,12 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object label="Subsidies to NH insurance" Description="Description of the Adaptation / Risk mitigation Option " Type="Adaptation Option" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-89">
+        <object label="Subsidies to NH insurance" Description="Subsidies can be used to increase the penetration of insurance against natural hazards, particularly among vulnerable population. Overall the cost-benefit ratio might be favorable since the risk transfer provided by insurance would decrease the social impact of hazards, particularly in case of low-probability, high impact events.&#xa;In Italy / Liguria / Genoa the availability of subsidies to insurance are currently scarce XXX&#xa;" Type="Adaptation Option" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) or high (robust evidence)." id="_F0MfmOvoYsbLBurmLUC-89">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-90" y="635" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
-        <object label="Mitigates" Description="Description of how the impact affects the specific exposure component [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." Time_Lag="" id="_F0MfmOvoYsbLBurmLUC-90">
+        <object label="Mitigates" Description="The provision of subsidies might increase penetration of insurance, therefore decrease the potential socioeconomic vulnerability of population living in exposed areas&#xa; [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="medium (moderate evidence) or high (robust evidence)." Time_Lag="" id="_F0MfmOvoYsbLBurmLUC-90">
           <mxCell style="endArrow=classic;html=1;rounded=1;strokeColor=#4C0099;dashed=1;dashPattern=12 12;jumpStyle=arc;jumpSize=7;elbow=vertical;exitX=-0.009;exitY=0.399;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_F0MfmOvoYsbLBurmLUC-89" target="_F0MfmOvoYsbLBurmLUC-84" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-250" y="640" as="sourcePoint" />
