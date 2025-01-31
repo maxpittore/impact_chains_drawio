@@ -20,51 +20,61 @@
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"Hazard\" Description=\"Description of the hazard\" Type=\"Hazard\" Layer=\"name of the corresponding layer (if applicable)\" File=\"name of the geospatial file describing this hazard component (if applicable)\" Source=\"Source of the knowledge/information about this element (Literature, expert judgement, other)\" References=\"Cited references (scientific papers, news item, etc.\" Confidence=\"Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence).\" id=\"2\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
-    "h": 60
+    "h": 60,
+    "aspect": "fixed"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"Vulnerability 1\" Description=\"Description of the Vulnerability\" Type=\"Vulnerability\" Layer=\"name of the corresponding layer (if applicable)\" File=\"name of the geospatial file describing this component (if applicable)\" Source=\"Source of the knowledge/information about this element (Literature, expert judgement, other)\" References=\"Cited references (scientific papers, news item, etc.\" Confidence=\"Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence).\" id=\"2\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
-    "h": 60
+    "h": 60,
+    "aspect": "fixed"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"Exposure 1\" Description=\"Description of the Exposure\" Type=\"Exposure\" Layer=\"name of the corresponding layer (if applicable)\" File=\"name of the geospatial file describing this component (if applicable)\" Source=\"Source of the knowledge/information about this element (Literature, expert judgement, other)\" References=\"Cited references (scientific papers, news item, etc.\" Confidence=\"Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence).\" id=\"2\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;shadow=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
-    "h": 60
+    "h": 60,
+    "aspect": "fixed"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"Impact 1\" Description=\"Description of the Impact\" Type=\"Impact\" Layer=\"name of the corresponding layer (if applicable)\" File=\"name of the geospatial file describing this component (if applicable)\" Source=\"Source of the knowledge/information about this element (Literature, expert judgement, other)\" References=\"Cited references (scientific papers, news item, etc.\" Confidence=\"Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence).\" id=\"2\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
-    "h": 60
+    "h": 60,
+    "aspect": "fixed"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"Key Risk\" Description=\"Description of the (key) Risk\" Type=\"Risk\" Layer=\"name of the corresponding layer (if applicable)\" File=\"name of the geospatial file describing this component (if applicable)\" Source=\"Source of the knowledge/information about this element (Literature, expert judgement, other)\" References=\"Cited references (scientific papers, news item, etc.\" Confidence=\"Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence).\" id=\"2\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;shadow=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
-    "h": 60
+    "h": 60,
+    "aspect": "fixed"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"Adaptation\" Description=\"Description of the Adaptation / Risk mitigation Option \" Type=\"Adaptation Option\" Layer=\"name of the corresponding layer (if applicable)\" File=\"name of the geospatial file describing this component (if applicable)\" Source=\"Source of the knowledge/information about this element (Literature, expert judgement, other)\" References=\"Cited references (scientific papers, news item, etc.\" Confidence=\"Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence).\" id=\"2\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
-    "h": 60
+    "h": 60,
+    "aspect": "fixed"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"Leads to\" Description=\"Description the cause-effect process from the preceding component to the current component [please substitute with your text!]. \" References=\"Cited references (scientific papers, news item, etc.\" Source=\"Source of the knowledge/information about this element (Literature, expert judgement, other)\" Confidence=\"Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence).\" Time_Lag=\"Refers to the time lapse between the incidence of the source element and the subsequent element. Values: &amp;#xA;minutes to hours&amp;#xA;hours to days&amp;#xA;days to weeks&amp;#xA;weeks to months&amp;#xA;years to decades\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"0.018\" width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"1\" as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 0.9999999999999567,
-    "h": 60
+    "h": 60,
+    "aspect": "fixed"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"Impacts on\" Description=\"Description of how the impact affects the specific exposure component [please substitute with your text!]\" References=\"Cited references (scientific papers, news item, etc.\" Source=\"Source of the knowledge/information about this element (Literature, expert judgement, other)\" Confidence=\"Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence).\" Time_Lag=\"\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;edgeStyle=elbowEdgeStyle;jumpStyle=arc;jumpSize=7;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"0.0031\" y=\"1\" width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"0.2852380952380713\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"0.09523809523807358\" y=\"60\" as=\"targetPoint\"/&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 0.9523809523809523,
-    "h": 60
+    "h": 60,
+    "aspect": "fixed"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"Affects\" Description=\"Description of how the vulnerability affects the specific impact/vulnerability component [please substitute with your text!]\" References=\"Cited references (scientific papers, news item, etc.\" Source=\"Source of the knowledge/information about this element (Literature, expert judgement, other)\" Confidence=\"Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence).\" Time_Lag=\"\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=classic;html=1;rounded=1;strokeColor=#006600;edgeStyle=elbowEdgeStyle;curved=0;jumpStyle=arc;jumpSize=7;shadow=0;flowAnimation=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"0.28285714285709673\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"0.28285714285709673\" y=\"60\" as=\"targetPoint\"/&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 0.9523809523809523,
-    "h": 60
+    "h": 60,
+    "aspect": "fixed"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"Mitigates\" Description=\"Description of how the impact affects the specific exposure component [please substitute with your text!]\" References=\"Cited references (scientific papers, news item, etc.\" Source=\"Source of the knowledge/information about this element (Literature, expert judgement, other)\" Confidence=\"Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence).\" Time_Lag=\"\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=classic;html=1;rounded=1;strokeColor=#4C0099;dashed=1;dashPattern=12 12;jumpStyle=arc;jumpSize=7;elbow=vertical;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 0.9523809523809523,
-    "h": 60
+    "h": 60,
+    "aspect": "fixed"
   }
 ]</mxlibrary>
