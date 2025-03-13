@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.0.16">
   <diagram name="Pagina-1" id="luuT_doJFNInnU2bNvtK">
-    <mxGraphModel dx="2977" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2977" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" Impact_chain_title="Impact Chain BOLZANO - Multi-hazard / multi-risk" impact_chain_geographical_scope="Municipality of Bolzano, Trentino/Alto-Adige, Italy" impact_chain_temporal_scope="Current time, short-term future" impact_chain_authors="" Impact_chain_references="" impact_chain_purpose="Analysis of key risks related to climate-affected natural hazards (fluvial floods, landslides, heatwaves) on the municipality of Bolzano." impact_chain_last_modified="" id="0">
           <mxCell />
@@ -212,12 +212,12 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Increase of temperature&lt;br&gt;&lt;/b&gt;" Description="Heatwaves are events characterized by high temperatures that can last several days, and can be harmful for both the population and the ecological system in the urban environment.&#xa;In Bolzano the yearly average temperature is XXX, and in the last 10 years an increase of high temperature events has been observed [DA MODIFICARE OPPORTUNAMENTE]" Type="Hazard" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this hazard component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="Confidence on the knowledge/information about this element. It can be evaluated in accordance with the following categories: low (limited evidence), medium (moderate evidence) or high (robust evidence)." id="7azoTFsJbE2xDn5kk4Lu-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-250" y="-600" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Landslides can both directly damage the surface of the road, or make them locally unusable due to debris accumulation. [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours&#xa;" id="7azoTFsJbE2xDn5kk4Lu-2">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7azoTFsJbE2xDn5kk4Lu-1" target="GEd216P_miA6AbYHsWlQ-1">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7azoTFsJbE2xDn5kk4Lu-1" target="GEd216P_miA6AbYHsWlQ-1" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-190.71" y="-520" as="sourcePoint" />
               <mxPoint x="-190.71" y="-440" as="targetPoint" />
@@ -229,22 +229,22 @@
           </mxCell>
         </object>
         <object label="Increase of indoor PM" Description="Strong traffic disturbance includes the segregation of residential areas as well as critical infrastructure, leading to increase travel time and possibly inability to reach certain places." Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) or high (robust evidence)." id="7azoTFsJbE2xDn5kk4Lu-3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-460" y="-260" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="Increase of indoor Ozone" Description="Strong traffic disturbance includes the segregation of residential areas as well as critical infrastructure, leading to increase travel time and possibly inability to reach certain places." Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) or high (robust evidence)." id="7azoTFsJbE2xDn5kk4Lu-4">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-700" y="-310" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="Increase of indoor HCHO" Description="Strong traffic disturbance includes the segregation of residential areas as well as critical infrastructure, leading to increase travel time and possibly inability to reach certain places." Type="Impact" Layer="name of the corresponding layer (if applicable)" File="name of the geospatial file describing this component (if applicable)" Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" References="Cited references (scientific papers, news item, etc." Confidence="medium (moderate evidence) or high (robust evidence)." id="7azoTFsJbE2xDn5kk4Lu-6">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=light-dark(#CCCCCC,#202020);strokeColor=#36393d;glass=0;shadow=0;" parent="1" vertex="1">
             <mxGeometry x="-600" y="-180" width="120" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Landslides can both directly damage the surface of the road, or make them locally unusable due to debris accumulation. [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours&#xa;" id="7azoTFsJbE2xDn5kk4Lu-7">
-          <mxCell style="endArrow=classic;html=1;rounded=1;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GEd216P_miA6AbYHsWlQ-1" target="7azoTFsJbE2xDn5kk4Lu-3">
+          <mxCell style="endArrow=classic;html=1;rounded=1;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GEd216P_miA6AbYHsWlQ-1" target="7azoTFsJbE2xDn5kk4Lu-3" edge="1">
             <mxGeometry x="0.4615" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-420" y="-480" as="sourcePoint" />
               <mxPoint x="-180" y="-440" as="targetPoint" />
@@ -256,7 +256,7 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Landslides can both directly damage the surface of the road, or make them locally unusable due to debris accumulation. [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours&#xa;" id="7azoTFsJbE2xDn5kk4Lu-8">
-          <mxCell style="endArrow=classic;html=1;rounded=1;jumpStyle=arc;edgeStyle=elbowEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GEd216P_miA6AbYHsWlQ-1" target="7azoTFsJbE2xDn5kk4Lu-4">
+          <mxCell style="endArrow=classic;html=1;rounded=1;jumpStyle=arc;edgeStyle=elbowEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GEd216P_miA6AbYHsWlQ-1" target="7azoTFsJbE2xDn5kk4Lu-4" edge="1">
             <mxGeometry x="0.4" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-240" y="-410" as="sourcePoint" />
               <mxPoint x="-390" y="-300" as="targetPoint" />
@@ -268,7 +268,7 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Landslides can both directly damage the surface of the road, or make them locally unusable due to debris accumulation. [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours&#xa;" id="7azoTFsJbE2xDn5kk4Lu-9">
-          <mxCell style="endArrow=classic;html=1;rounded=1;jumpStyle=arc;edgeStyle=elbowEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GEd216P_miA6AbYHsWlQ-1" target="7azoTFsJbE2xDn5kk4Lu-6">
+          <mxCell style="endArrow=classic;html=1;rounded=1;jumpStyle=arc;edgeStyle=elbowEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GEd216P_miA6AbYHsWlQ-1" target="7azoTFsJbE2xDn5kk4Lu-6" edge="1">
             <mxGeometry x="0.5294" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-240" y="-410" as="sourcePoint" />
               <mxPoint x="-610" y="-300" as="targetPoint" />
@@ -280,7 +280,7 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Landslides can both directly damage the surface of the road, or make them locally unusable due to debris accumulation. [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours&#xa;" id="7azoTFsJbE2xDn5kk4Lu-10">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7azoTFsJbE2xDn5kk4Lu-4" target="7azoTFsJbE2xDn5kk4Lu-6">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7azoTFsJbE2xDn5kk4Lu-4" target="7azoTFsJbE2xDn5kk4Lu-6" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-650" y="-210" as="sourcePoint" />
               <mxPoint x="-650" y="-130" as="targetPoint" />
@@ -290,7 +290,7 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Landslides can both directly damage the surface of the road, or make them locally unusable due to debris accumulation. [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours&#xa;" id="7azoTFsJbE2xDn5kk4Lu-12">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7azoTFsJbE2xDn5kk4Lu-6" target="GEd216P_miA6AbYHsWlQ-2">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7azoTFsJbE2xDn5kk4Lu-6" target="GEd216P_miA6AbYHsWlQ-2" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-630" y="-240" as="sourcePoint" />
               <mxPoint x="-530" y="-170" as="targetPoint" />
@@ -300,7 +300,7 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Landslides can both directly damage the surface of the road, or make them locally unusable due to debris accumulation. [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours&#xa;" id="7azoTFsJbE2xDn5kk4Lu-13">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="7azoTFsJbE2xDn5kk4Lu-3">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7azoTFsJbE2xDn5kk4Lu-3" edge="1">
             <mxGeometry x="0.018" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-530" y="-110" as="sourcePoint" />
               <mxPoint x="-310" y="-60" as="targetPoint" />
@@ -310,7 +310,7 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Leads to&lt;/b&gt;" Description="Landslides can both directly damage the surface of the road, or make them locally unusable due to debris accumulation. [please substitute with your text!]. " References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="minutes to hours&#xa;" id="7azoTFsJbE2xDn5kk4Lu-14">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7azoTFsJbE2xDn5kk4Lu-4" target="GEd216P_miA6AbYHsWlQ-2">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7azoTFsJbE2xDn5kk4Lu-4" target="GEd216P_miA6AbYHsWlQ-2" edge="1">
             <mxGeometry x="-0.2245" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-530" y="-110" as="sourcePoint" />
               <mxPoint x="-330" y="-50" as="targetPoint" />
@@ -322,7 +322,7 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Impacts on&lt;/b&gt;" Description="Residents of the damaged buildings are affected by the inagibility [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="not applicable" id="7azoTFsJbE2xDn5kk4Lu-15">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;edgeStyle=elbowEdgeStyle;jumpStyle=arc;jumpSize=7;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7azoTFsJbE2xDn5kk4Lu-4" target="_F0MfmOvoYsbLBurmLUC-37">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;edgeStyle=elbowEdgeStyle;jumpStyle=arc;jumpSize=7;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7azoTFsJbE2xDn5kk4Lu-4" target="_F0MfmOvoYsbLBurmLUC-37" edge="1">
             <mxGeometry x="0.0031" y="1" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-710" y="-250" as="sourcePoint" />
               <mxPoint x="-1000" y="-150" as="targetPoint" />
@@ -334,7 +334,7 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Impacts on&lt;/b&gt;" Description="Residents of the damaged buildings are affected by the inagibility [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="not applicable" id="7azoTFsJbE2xDn5kk4Lu-16">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;edgeStyle=elbowEdgeStyle;jumpStyle=arc;jumpSize=7;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7azoTFsJbE2xDn5kk4Lu-6" target="_F0MfmOvoYsbLBurmLUC-37">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;edgeStyle=elbowEdgeStyle;jumpStyle=arc;jumpSize=7;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7azoTFsJbE2xDn5kk4Lu-6" target="_F0MfmOvoYsbLBurmLUC-37" edge="1">
             <mxGeometry x="0.0031" y="1" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-690" y="-270" as="sourcePoint" />
               <mxPoint x="-800" y="-170" as="targetPoint" />
@@ -344,7 +344,7 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;Impacts on&lt;/b&gt;" Description="Residents of the damaged buildings are affected by the inagibility [please substitute with your text!]" References="Cited references (scientific papers, news item, etc." Source="Source of the knowledge/information about this element (Literature, expert judgement, other)" Confidence="high (robust evidence)." Time_Lag="not applicable" id="7azoTFsJbE2xDn5kk4Lu-21">
-          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;edgeStyle=elbowEdgeStyle;jumpStyle=arc;jumpSize=7;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7azoTFsJbE2xDn5kk4Lu-3" target="_F0MfmOvoYsbLBurmLUC-37">
+          <mxCell style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006600;dashed=1;dashPattern=12 12;edgeStyle=elbowEdgeStyle;jumpStyle=arc;jumpSize=7;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7azoTFsJbE2xDn5kk4Lu-3" target="_F0MfmOvoYsbLBurmLUC-37" edge="1">
             <mxGeometry x="0.5135" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="-690" y="-270" as="sourcePoint" />
               <mxPoint x="-800" y="-170" as="targetPoint" />
